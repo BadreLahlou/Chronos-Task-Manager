@@ -141,24 +141,9 @@ Here’s a glimpse of the Chronos frontend, where users can manage tasks, track 
 
 
 
----
-
-## 🤝 Deployment Plans
-
-Chronos is gearing up to go live as a fully functional app! Soon, you’ll be able to access it via a secure URL, complete with user registration and login features. The deployment will feature:
-- **Docker**: For consistent, containerized environments that scale effortlessly.
-- **Cloud Hosting**: Ensuring Chronos is always up and running, no matter the load.
-- **HTTPS**: Keeping your data secure with encrypted communication.
-
-Keep an eye out for the launch—I can’t wait to share it with you!
 
 ---
 
-## 📜 License & Usage
-
-Chronos is a personal project by **Badre Lahlou**, and I’m thrilled to share its features and code with you to showcase my skills! The full source code is available in this repository for potential employers to review. However, as I’m working on deploying Chronos as a live app, I kindly ask that the code not be replicated or used without permission. I’d love for you to try out the deployed version once it’s ready and let me know what you think. Thanks for your support!
-
----
 
 ## ✨ Acknowledgments
 
