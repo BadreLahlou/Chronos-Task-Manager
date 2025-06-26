@@ -141,6 +141,25 @@ Here’s a glimpse of the Chronos frontend, where users can manage tasks, track 
 
 
 
+![Chronos Frontend Screenshot](screenshots/frontend-time-tracking7.png)
+
+
+
+
+
+![Chronos Frontend Screenshot](screenshots/frontend-time-tracking5.png)
+
+
+
+
+![Chronos Frontend Screenshot](screenshots/frontend-time-tracking6.png)
+
+
+
+
+
+
+
 
 ---
 
